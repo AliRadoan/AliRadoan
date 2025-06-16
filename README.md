@@ -49,11 +49,10 @@
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliRadoan&theme=radical&row=1" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliRadoan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
