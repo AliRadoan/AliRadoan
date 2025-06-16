@@ -5,8 +5,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
+<h3 align="center">
+  🇵🇸 <b>Free Palestine</b> 🇵🇸
+</h3>
+
 <p align="center">
-  <b> Free Palestine </b>
+  <a href="https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md">
+    <img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg" alt="Stand With Palestine Badge"/>
+  </a>
 </p>
 
 
