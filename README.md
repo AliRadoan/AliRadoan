@@ -72,7 +72,7 @@
 
 - 🐦 Twitter: [@YourHandle](https://twitter.com)  
 - 💬 Discord: `AliRadoan`  
-- 📧 Email: `your@email.com
+- 📧 Email: *@HOT*.com
 
 ---
 
