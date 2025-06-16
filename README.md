@@ -17,12 +17,26 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+</p>
+
+- **Languages:** Python, JavaScript, Bash  
+- **Operating Systems:** Linux (Ubuntu, Kali, Arch)  
+- **Scripting & Automation:** Bash scripting, Python automation  
+- **Web Technologies:** HTML, CSS, JavaScript (Vanilla / basic frameworks)  
+- **Containers & DevOps:** Docker, Docker Compose  
+- **Version Control:** Git, GitHub  
+- **Security Tools Familiarity:** Burp Suite, Nmap, Metasploit, Wireshark  
+- **Terminal Workflow:** ZSH, tmux, custom dotfiles  
+
+
+
 
 ---
 
