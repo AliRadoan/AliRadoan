@@ -30,7 +30,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Burp_Suite_Logo.png" alt="Burp Suite" width="50" height="50"/>
+  
 </p>
 
 ---
