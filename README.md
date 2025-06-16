@@ -5,9 +5,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<h3 align="center" style="color:#00cc99;">
-  🇵🇸 <b>فلسطين حرة</b> 🇵🇸
-</h3>
+<p align="center">
+  <b>🇵🇸 Free Palestine 🇵🇸</b>
+</p>
+
 
 
 ---
