@@ -36,30 +36,6 @@
 ---
 
 #### 💻 Languages:
-- Python, JavaScript, Bash
-
-#### 🐧 Operating Systems:
-- Linux (Ubuntu, Kali, Arch)
-
-#### ⚙️ Scripting & Automation:
-- Bash scripting, Python automation
-
-#### 🌐 Web Technologies:
-- HTML, CSS, JavaScript (Vanilla / basic frameworks)
-
-#### 🐳 Containers & DevOps:
-- Docker, Docker Compose
-
-#### 🔧 Version Control:
-- Git, GitHub
-
-#### 🛡️ Security Tools Familiarity:
-- Burp Suite, Nmap, Metasploit, Wireshark
-
-#### 🖥️ Terminal Workflow:
-- ZSH, tmux, custom dotfiles
-
-
 
 - **Languages:** Python, JavaScript, Bash  
 - **Operating Systems:** Linux (Ubuntu, Kali, Arch)  
