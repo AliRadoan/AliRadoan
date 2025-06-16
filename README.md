@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>🇵🇸 Free Palestine 🇵🇸</b>
+  <b> Free Palestine </b>
 </p>
 
 
