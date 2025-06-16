@@ -70,9 +70,9 @@
 
 ### 📫 Connect with Me
 
-- Twitter: [@YourHandle](https://twitter.com/YourHandle)
-- Discord: `AliRadoan#0000`
-- Email: your@email.com *(اختياري)*
+- 🐦 Twitter: [@YourHandle](https://twitter.com)  
+- 💬 Discord: `AliRadoan`  
+- 📧 Email: `your@email.com
 
 ---
 
