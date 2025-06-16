@@ -11,9 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md">
-    <img src="https://raw.githubusercontent.com/TheBSD/FreePalestine/main/badges/StandWithPalestine.svg" alt="Stand With Palestine Badge"/>
+    <img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg" alt="Stand With Palestine Badge"/>
   </a>
 </p>
+
 
 
 
