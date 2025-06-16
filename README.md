@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm 0xMo3</h1>
-<h3 align="center">Security Researcher | Cybersecurity Enthusiast | Bug Hunter</h3>
+<h3 align="center">Security researcher | Cybersecurity enthusiast | Bug Hunter</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -8,11 +8,10 @@
 ---
 
 ### 🧠 About Me
-
-- 🔭 I’m working on building open-source cybersecurity tools.  
-- 🧩 I love participating in Capture The Flag (CTF) competitions.  
-- 🛡️ Passionate about ethical hacking & penetration testing.  
-- 🧑‍💻 I’m currently learning: Web3, Smart Contracts, Exploit Development.  
+- 🧑‍💻 I’m currently learning: Web3, Smart Contracts, Exploit Development.
+- 🔭 I’m working on building open-source cybersecurity tools.
+- 🧩 I love participating in Capture The Flag (CTF) competitions.
+- 🛡️ Passionate about ethical hacking & penetration testing.
 
 ---
 
@@ -31,12 +30,12 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Burp_Suite_Logo.png" alt="Burp Suite" width="50" height="50"/>
+  
 </p>
 
 ---
 
-### 🧩 Technical Overview
+#### 💻 Languages:
 
 - **Languages:** Python, JavaScript, Bash  
 - **Operating Systems:** Linux (Ubuntu, Kali, Arch)  
@@ -44,8 +43,11 @@
 - **Web Technologies:** HTML, CSS, JavaScript (Vanilla / basic frameworks)  
 - **Containers & DevOps:** Docker, Docker Compose  
 - **Version Control:** Git, GitHub  
-- **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark  
+- **Security Tools Familiarity:** Burp Suite, Nmap, Metasploit, Wireshark  
 - **Terminal Workflow:** ZSH, tmux, custom dotfiles  
+
+
+
 
 ---
 
@@ -53,26 +55,25 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliRadoan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRadoan&layout=compact&theme=radical&langs_count=8" height="180"/>
+  
 </p>
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliRadoan&theme=radical&row=1" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliRadoan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
 ### 📫 Connect with Me
 
-- 🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle)  
-- 💬 Discord: `AliRadoan#0000`  
-- 📧 Email: `your@email.com` <!-- (اختياري - عدله أو احذفه) -->
+- Twitter: [@YourHandle](https://twitter.com/YourHandle)
+- Discord: `AliRadoan#0000`
+- Email: your@email.com *(اختياري)*
 
 ---
 
-<p align="center"><b>💀 “They are all traitors behind the scenes.” 💀</b></p>
+<p align="center">💀 “They are all traitors behind the scenes.” 💀</p>
