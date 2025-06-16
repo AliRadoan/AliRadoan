@@ -43,9 +43,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliRadoan&show_icons=true&theme=radical" height="180"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=AliRadoan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRadoan&layout=compact&theme=radical&langs_count=8" height="180"/>
 </p>
+
 
 ---
 
